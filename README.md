@@ -28,5 +28,4 @@ A fun and beginner-friendly Python script that displays a **pulsing ASCII heart 
 ### Option 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/python-ascii-heart.git
-cd python-ascii-heart
+https://github.com/r8ck0/Python-ASCII-Heart-Animation.git
